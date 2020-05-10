@@ -1,0 +1,6 @@
+*.pdf
+*.pptx
+Code/
+MS/
+.ipynb_checkpoints/
+__pycache__/
