@@ -1,6 +1,11 @@
-# Exploring network constraints on concentration dynamics
+![logo](assets/logo.png)
+
+## Exploring network constraints on concentration dynamics
 
 [![DOI](https://zenodo.org/badge/262824428.svg)](https://zenodo.org/badge/latestdoi/262824428)
+
+<br>
+
 ### Semidán Robaina Estévez
 
 (also published in [my blog](https://semidanrobaina.com/blog/posts/evaluating-chemical-network-dynamics-without-kinetics))
