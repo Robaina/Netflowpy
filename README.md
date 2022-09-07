@@ -18,7 +18,7 @@ $$
 \begin{equation}
   \frac{d}{dt} x_i = \sum_j s_{ij} v_j,
 \label{eq:1}
-\tag{1}
+% \tag{1}
 \end{equation}
 $$
 
@@ -28,7 +28,7 @@ $$
 \begin{equation}
   v_j = k_j \prod_{i\in Subs} x_i^{s_{ij}}.
   \label{eq:2}
-  \tag{2}
+  % \tag{2}
 \end{equation}
 $$
 
@@ -50,7 +50,7 @@ $$
     &v_{min} \le v \le v_{max}.
   \end{aligned}
 \label{eq:3}
-\tag{3}
+% \tag{3}
 \end{align}
 $$
 
@@ -78,7 +78,7 @@ $$
     &t = \{0,\dots,t_f\}.
   \end{aligned}
   \label{eq:4}
-  \tag{4}
+  % \tag{4}
 \end{align}
 $$
 
@@ -111,7 +111,7 @@ $$
     &t = \{0,...,t_f\},
   \end{aligned}
   \label{eq:5}
-  \tag{5}
+  % \tag{5}
 \end{align}
 $$$
 
@@ -143,7 +143,7 @@ $$
   &t = \{0,\dots,t_f\}.
   \end{aligned}
   \label{eq:6}
-  \tag{6}
+  % \tag{6}
 \end{align}
 $$
 
