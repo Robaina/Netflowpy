@@ -273,4 +273,9 @@ The figures above show the minimum and maximum concentration bounds, depicted in
 
 We observe that some species show more constrained trajectories than others. Specifically, species $B$ is the most constrained, with a single optimal trajectory in the alternative optimal space. This single trajectory simply corresponds to the fastest allowed, that is, per our constraints, consumption, since $B$ is required to produce $C$ and it is only consumed, not produced, by the network. However, we see that the rest of species show different degrees of variability in their optimal trajectories &mdash; being $C, E$ the species displaying the most variable optimal trajectories.
 
-### References
+
+## Citation
+
+If you use this software, please cite it as below:
+
+Semidán Robaina Estévez. (2022). Netflowpy: exploring network constraints on concentration dynamics in Python (Version 0.0.1). Zenodo. https://doi.org/10.5281/zenodo.7018381
